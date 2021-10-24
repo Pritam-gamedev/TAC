@@ -1,0 +1,21 @@
+.content 
+            {
+              position: relative;
+              display: flex;
+              justify-content: space-between;
+              display: block;
+              text-align: center;
+              margin-top: 30px;
+
+              
+            }
+
+.body {
+          background-image: url('Images/Bg.png');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: cover;
+}
+
+
+
